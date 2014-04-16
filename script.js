@@ -25,7 +25,7 @@ window.onload = function() {
   IMG[6] = new Image; IMG[6].src = "img/fog.png";
   IMG[7] = new Image; IMG[7].src = "img/jupiter.png";
   IMG[8] = new Image; IMG[8].src = "img/saturn.png";
-  IMG[9] = new Image; IMG[9].src = "img/uranius.png";
+  IMG[9] = new Image; IMG[9].src = "img/uranus.png";
   IMG[10] = new Image; IMG[10].src = "img/neptune.png";
   IMG[11] = new Image; IMG[11].src = "img/pluto.png";
   IMG[12] = new Image; IMG[12].src = "img/asteroid.png";
